@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "LTMX",
+    "email": "nicolasreinhard.pro@gmail.com",
+    "url": "https://linktr.ee/nicolasreinhard"
+  },
+  "displayName": "Unity.unzip",
+  "name": "com.ltmx.unity.unzip",
+  "repository": "github:LTMX/Unity.unzip",
+  "description": "Automatic Zip Extractor for Unity",
+  "version": "1.0.0",
+  "keywords": [
+    "unity",
+    "zip",
+    "7zip",
+    "archive",
+    "editor",
+    "importer",
+    "plugin",
+    "utils"
+  ],
+  "license": "MIT"
+}
