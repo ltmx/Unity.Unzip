@@ -1,5 +1,5 @@
 {
-    "name": "Unity.7zip",
+    "name": "Unity.Unzip",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
